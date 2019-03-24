@@ -2,6 +2,8 @@
 
 可以浏览你的状态管理器的所有历史动作（Action），通过它还对比每次动作前后的状态变化，支持 [redux](https://github.com/brianegan/flutter_redux/) 及 [fish-redux](https://github.com/alibaba/fish-redux)。
 
+![](../.gitbook/assets/redux-inspector.png)
+
 ## 快速开始
 
 ### 初始化
