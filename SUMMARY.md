@@ -2,6 +2,13 @@
 
 * [Flutter Debugger](README.md)
 
+## 插件
+
+* [Network](plugins/network.md)
+* [Preferences](plugins/preferences.md)
+* [Redux](plugins/redux.md)
+* [Database](plugins/database.md)
+
 ## 其他
 
 * [变更日志](miscellaneous/changelog.md)
