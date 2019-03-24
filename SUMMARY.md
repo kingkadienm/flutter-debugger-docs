@@ -4,10 +4,10 @@
 
 ## 插件
 
-* [Network](plugins/network.md)
-* [Preferences](plugins/preferences.md)
+* [网络](plugins/network.md)
+* [共享首选项](plugins/preferences.md)
+* [数据库（敬请期待）](plugins/database.md)
 * [Redux](plugins/redux.md)
-* [Database](plugins/database.md)
 
 ## 其他
 
