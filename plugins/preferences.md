@@ -2,6 +2,8 @@
 
 轻松检查和修改应用程序共享首选项中包含的数据。
 
+![](../.gitbook/assets/shared-preferences.png)
+
 ## 快速开始
 
 ### 初始化
