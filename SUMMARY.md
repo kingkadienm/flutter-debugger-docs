@@ -6,7 +6,7 @@
 
 * [网络](plugins/network.md)
 * [共享首选项](plugins/preferences.md)
-* [数据库（敬请期待）](plugins/database.md)
+* [数据库](plugins/database.md)
 * [Redux](plugins/redux.md)
 
 ## 其他
