@@ -2,9 +2,7 @@
 
 轻松浏览应用的本地数据库。
 
-![](../.gitbook/assets/snapshot.png)
-
-
+![](../.gitbook/assets/database.png)
 
 ## 快速开始
 
