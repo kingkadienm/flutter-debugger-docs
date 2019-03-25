@@ -8,9 +8,10 @@ Flutter Debugger 这是一个用于调试 [Flutter](https://flutter.dev) 应用�
 
 ### 特性
 
-* 网络检查
-* 状态检查
-* 数据库浏览
+* 网络检查器
+* 状态检查器
+* Redux 检查器
+* 数据库浏览器
 
 ## 快速开始
 
