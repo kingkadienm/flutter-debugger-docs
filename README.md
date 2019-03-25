@@ -1,4 +1,4 @@
-# Flutter Debugger
+# Flutter Debugger \(based on Flipper\)
 
 ![](.gitbook/assets/icon.png)
 

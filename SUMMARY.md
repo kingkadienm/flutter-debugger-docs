@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Flutter Debugger](README.md)
+* [Flutter Debugger \(based on Flipper\)](README.md)
 
 ## 插件
 
