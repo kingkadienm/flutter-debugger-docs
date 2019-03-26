@@ -25,7 +25,7 @@ Flutter Debugger 这是一个用于调试 [Flutter](https://flutter.dev) 应用�
 
 ```yaml
 dependencies:
-  flutter_flipperkit: ^0.0.7
+  flutter_flipperkit: ^0.0.8
 ```
 
 > 这是官方维护的一些流行库的支持插件，请查看 [https://github.com/blankapp/flutter\_flipperkit\_plugins](https://github.com/blankapp/flutter_flipperkit_plugins)。
@@ -36,7 +36,7 @@ dependencies:
 +source 'https://github.com/facebook/flipper.git'
 +source 'https://github.com/CocoaPods/Specs'
 # Uncomment this line to define a global platform for your project
--# platform :ios, '9.0'
+-# platform :ios, '8.0'
 +platform :ios, '9.0'
 ```
 
